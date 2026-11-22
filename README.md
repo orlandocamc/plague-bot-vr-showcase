@@ -3,9 +3,9 @@
 **Robot agrícola autónomo para la detección temprana de plagas en invernaderos de tomate,
 con teleoperación en realidad virtual.**
 
-🥇 **1er lugar global — Huawei ICT Competition 2025–2026** (final en Shenzhen, junio 2026) ·
-🏆 **Global Award — Intel AI Global Impact Festival 2026** ·
-📄 **COMRob 2026** (aceptado) · **IEEE CAFE 2026**
+🥇 **First Prize — Huawei ICT Competition 2025–2026, final global** (Shenzhen, junio 2026) ·
+🏆 **Global Award Winner — Intel AI Global Impact Festival 2026** ·
+📄 *Edge-AI and 6-DOF Robotic Manipulator for Greenhouse Crop Monitoring*, aceptado en **COMRob 2026**
 
 > **English summary.** Plague-Bot VR is an autonomous agricultural robot for early pest
 > detection in tomato greenhouses, built by JADA Robotics (Universidad Iberoamericana, Mexico
@@ -88,9 +88,9 @@ Canal de JADA Robotics: https://www.youtube.com/@JADAROBOTICS
 
 | Integrante | Rol |
 |---|---|
-| **Orlando Camacho** | Líder técnico. Stack de ROS 2, navegación autónoma, SLAM, simulación, transmisión de datos/video y networking. |
-| **Eliot Calderón** | Visión por computadora y edge AI. |
-| **Adán López** | Hardware y diseño electromecánico. |
+| **Orlando Camacho** | Capitán y líder técnico. Navegación autónoma (ROS 2, Nav2, SLAM, Gazebo), pipeline de teleoperación (WebRTC sobre Tailscale, 40–60 ms en 4G), HUD de realidad virtual en Unity para Meta Quest 3, chasis del robot e integración del sistema. |
+| **Eliot Calderón** | Detección de plagas con IA: visión por computadora y edge AI (YOLOv8, Hailo-8L), entrenamiento y dataset. |
+| **Adán López** | Brazo robótico PROTÓN de 6 GDL: electrónica y diseño. |
 | **Mtro. Joel Arango Ramírez** | Asesor. |
 
 ## Código fuente
